@@ -53,7 +53,7 @@ terraform.rc
 **/.settings
 **/.springBeans
 **/.sts4-cache
-/target/
+**/target
 **/.mvn/**
 !**/src/main/**/target/
 !**/src/test/**/target/
